@@ -1,5 +1,6 @@
-package com.example.springcore;
+package com.example.springcore.model;
 
+import com.example.springcore.dto.ProductRequestDto;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

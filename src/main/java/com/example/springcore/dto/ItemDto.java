@@ -1,4 +1,4 @@
-package com.example.springcore;
+package com.example.springcore.dto;
 
 import lombok.Getter;
 
